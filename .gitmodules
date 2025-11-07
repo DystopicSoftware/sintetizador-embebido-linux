@@ -1,0 +1,6 @@
+[submodule "app_raspberrypi"]
+	path = app_raspberrypi
+	url = https://github.com/DystopicSoftware/sintetizador_app_pi
+[submodule "firmware_esp32"]
+	path = firmware_esp32
+	url = https://github.com/DystopicSoftware/sintetizador_firmware_esp32
