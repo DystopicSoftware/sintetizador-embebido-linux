@@ -1,6 +1,6 @@
 # Sintetizador Digital Embebido con Controles Físicos
 **Embedded Linux Capstone Project**
-**Autor: Juan Bernardo Gómez-Mendoza**
+**Autor: Juan Esteban Villada Sierra**
 **Curso: Embedded Linux System Programming 2025-2S**
 
 ## 1. Problem Statement, System Overview, and Requirements Specification
